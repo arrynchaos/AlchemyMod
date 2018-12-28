@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "alchemymod:items/mortar_pestle_wood"
+    }
+}
