@@ -1,0 +1,26 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+	"  X",
+	" # ",
+	"YZ "
+	],
+	"key": {
+			"X": {
+					"item": "minecraft:string"
+				},
+			"#": {
+					"item": "minecraft:stick"
+				},
+			"Y": {
+					"item": "minecraft:planks",
+					"data": 32767
+				},		
+			"Z": {
+					"item": "minecraft:bowl"
+				}
+			},
+	"result": {
+			"item": "alchemymod:mortar_pestle_wood"
+			}
+}
