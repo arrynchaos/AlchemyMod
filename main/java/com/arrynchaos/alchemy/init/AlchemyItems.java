@@ -3,6 +3,7 @@ package com.arrynchaos.alchemy.init;
 import com.arrynchaos.alchemy.AlchemyMod;
 
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 
 @ObjectHolder(AlchemyMod.MODID)
